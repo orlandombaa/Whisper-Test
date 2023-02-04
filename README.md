@@ -1,2 +1,2 @@
 # Whisper-Test
- PRuebas con Whisper de OpenAI
+ Pruebas con Whisper de OpenAI
